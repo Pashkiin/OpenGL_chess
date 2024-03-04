@@ -1,0 +1,6 @@
+C:\Users\stanl\Desktop\bio_szkielet_10_win\x64\Debug\bio_szkielet_10_win.exe
+C:\Users\rtoit\OneDrive\Pulpit\grafika\Chess_OPENGL-main\Chess_OPENGL-main\bio_szkielet_10_win\x64\Debug\bio_szkielet_10_win.exe
+C:\Users\stanl\Desktop\Chess_OPENGL\bio_szkielet_10_win\x64\Debug\bio_szkielet_10_win.exe
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\bio_szkielet_10_win\x64\Debug\bio_szkielet_10_win.exe
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\Chess_OpenGL\x64\Debug\bio_szkielet_10_win.exe
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\x64\Debug\bio_szkielet_10_win.exe

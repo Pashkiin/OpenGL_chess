@@ -1,0 +1,72 @@
+﻿  lodepng.cpp
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\lodepng.cpp(762,34): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\lodepng.cpp(1422,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\lodepng.cpp(1426,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\lodepng.cpp(1498,86): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\lodepng.cpp(3441,46): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\lodepng.cpp(3455,54): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\lodepng.cpp(4262,75): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\lodepng.cpp(4310,41): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\lodepng.cpp(4390,59): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\lodepng.cpp(5329,38): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  main_file.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\glfw\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\customModel.h(107,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\customModel.h(112,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\customModel.h(124,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\customModel.h(126,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\customModel.h(160,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(83,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(100,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(102,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(104,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(108,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(109,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(117,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(121,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(122,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(128,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(129,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(133,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(135,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(139,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(140,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(148,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(152,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(153,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(159,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(160,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(164,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(165,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(166,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(166,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(175,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(176,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(190,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(191,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(205,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(206,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(220,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(221,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(227,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(228,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(331,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(343,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(353,31): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(379,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(401,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(401,46): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(418,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(418,46): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(439,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(440,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(508,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\main_file.cpp(509,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  shaderprogram.cpp
+C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\shaderprogram.cpp(47,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\x64\Debug\vc120.pdb'; linking object as if no debug info
+  bio_szkielet_10_win.vcxproj -> C:\Users\rtoit\OneDrive\Pulpit\grafika\proj_fin\Chess_OPENGL\OpenGL_chess\Chess_OpenGL\x64\Debug\bio_szkielet_10_win.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
